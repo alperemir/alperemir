@@ -309,7 +309,7 @@ I believe in:
 
 ## 🔗 Connect
 
-**[LinkedIn](https://www.linkedin.com/in/alper-emir-7b37201a4/)**
+**[LinkedIn](https://www.linkedin.com/in/alper-emir-7b37201a4/)**<br>
 **[MonitEye Platform](https://www.moniteye.com)**
 
 ---
