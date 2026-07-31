@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hey there 👋 I'm **Alper Emir**
 
 **Data Scientist** • **ML Engineer** • **Analytics Architect**
@@ -6,6 +8,7 @@
 
 ---
 
+</div>
 
 ## 🎯 About Me
 
