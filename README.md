@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey there 👋 I'm **Alper Emir**
+## Hi there 👋 I'm **Alper Emir**
 
 **Data Scientist** • **ML Engineer** • **Analytics Architect**
 
