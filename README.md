@@ -1,4 +1,4 @@
-Hey there 👋 I'm **Alper Emir**
+## Hey there 👋 I'm **Alper Emir**
 
 **Data Scientist** • **ML Engineer** • **Analytics Architect**
 
@@ -245,8 +245,6 @@ I believe in:
 
 ## 🔗 Connect
 
-<div align="center">
-
 **[LinkedIn](https://www.linkedin.com/in/alper-emir-7b37201a4/)** • **[MonitEye Platform](https://www.moniteye.com)** • **[GitHub](https://github.com/alperemir)**
 
 ---
@@ -254,5 +252,3 @@ I believe in:
 **Always learning. Always shipping. Always creating impact.**
 
 *Last updated: July 2026*
-
-</div>
