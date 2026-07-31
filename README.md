@@ -12,9 +12,13 @@
 
 ## 🎯 About Me
 
-I am an **AI & Data Science professional** dedicated to transforming raw data into strategic assets through **advanced analytics** and **high-performance engineering**. With a comprehensive background spanning the entire data lifecycle, I specialize in architecting intelligent systems that are not only innovative but also robust, scalable, and production-ready.
-
-I bridge the gap between complex algorithms and real-world business impact. My focus is on building **explainable, innovative, and automated systems** that turn massive datasets into meaningful, value-driven outcomes.
+- **AI & Data Science professional** transforming raw data into strategic assets
+- **Advanced analytics** & **high-performance engineering** specialist
+- **Comprehensive background** spanning the entire data lifecycle
+- **Architecting intelligent systems** — innovative, robust, scalable, production-ready
+- **Bridging** complex algorithms and real-world business impact
+- **Building** explainable, innovative, and automated systems
+- **Creating** meaningful, value-driven outcomes from massive datasets
 
 ---
 
