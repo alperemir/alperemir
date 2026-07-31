@@ -1,19 +1,8 @@
-<div align="center">
+Hey there 👋 I'm **Alper Emir**
 
-```
- █████╗ ██╗     ██████╗ ███████╗██████╗     ███████╗███╗   ███╗██╗██████╗ 
-██╔══██╗██║     ██╔══██╗██╔════╝██╔══██╗    ██╔════╝████╗ ████║██║██╔══██╗
-███████║██║     ██████╔╝█████╗  ██████╔╝    █████╗  ██╔████╔██║██║██████╔╝
-██╔══██║██║     ██╔═══╝ ██╔══╝  ██╔══██╗    ██╔══╝  ██║╚██╔╝██║██║██╔══██╗
-██║  ██║███████╗██║     ███████╗██║  ██║    ███████╗██║ ╚═╝ ██║██║██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝
-```
+**Data Scientist** • **ML Engineer** • **Analytics Architect**
 
-### 📊 Data Scientist | ML Engineer | Analytics Architect
-
-**Transforming raw data into strategic assets through intelligent systems**
-
-</div>
+*Transforming raw data into strategic assets through intelligent systems*
 
 ---
 
