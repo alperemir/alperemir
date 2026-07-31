@@ -51,7 +51,7 @@ Real-time workplace safety system combining computer vision + production infrast
 **Tech:** Python, PyTorch, YOLO26M-Pose, Docker, PostgreSQL  
 **Features:** Fall detection, PPE compliance, behavioral anomalies, zone enforcement
 
-→ [View Repository](https://github.com/moniteye/moniteye-python)
+→ [Visit MonitEye](https://www.moniteye.com)
 
 ### 🚀 Production ML Infrastructure  
 End-to-end ML pipeline handling 1M+ predictions/day with versioning, monitoring, and auto-retraining.
