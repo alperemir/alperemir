@@ -6,6 +6,9 @@
 
 *Transforming raw data into strategic assets through intelligent systems*
 
+![Profile Views](https://komarev.com/ghpvc/?username=alperemir&label=Profile%20Views&color=0e75b6&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/alperemir?label=Followers&style=flat-square&color=0e75b6)
+
 ---
 
 </div>
@@ -304,6 +307,46 @@ I believe in:
 ✅ Created A/B testing framework supporting 100+ concurrent experiments  
 ✅ Scaled ML pipeline from 10K to 1M+ predictions per day  
 ✅ Mentored 5+ data scientists on ML best practices  
+
+---
+
+## 📊 GitHub Activity & Commit Stats
+
+<div align="center">
+
+<!-- Genel istatistikler + Commit streak -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alperemir&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=alperemir&hide_border=true&theme=tokyonight" alt="Commit Streak" />
+
+<br/><br/>
+
+<!-- En çok kullanılan diller -->
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperemir&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Commit aktivite grafiği (zaman içindeki commit dağılımı) -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alperemir&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+### 🗓️ Commit Breakdown
+
+| Metric | Snapshot |
+|--------|----------|
+| **Total Contributions** | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Falperemir&query=%24.total.lastYear&label=Last%2012%20Months&color=0e75b6&style=flat-square) |
+| **Current Streak** | Bkz. yukarıdaki streak kartı |
+| **Primary Languages** | Python • SQL • Bash |
+| **Most Active Areas** | ML pipelines, Computer Vision, MLOps automation |
+| **Commit Style** | Conventional Commits (`feat:`, `fix:`, `refactor:`) |
+| **Public Repos** | ![Repos](https://img.shields.io/github/followers/alperemir?label=Followers&style=flat-square&color=0e75b6) |
+
+<div align="center">
+
+<!-- Contribution snake animasyonu (GitHub Action gerektirir - aşağıdaki nota bakın) -->
+<img src="https://raw.githubusercontent.com/alperemir/alperemir/output/snake.svg" alt="Contribution Snake" />
+
+</div>
 
 ---
 
