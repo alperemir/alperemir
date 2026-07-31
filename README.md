@@ -90,45 +90,103 @@ Expert-level command of **Python, SQL, and PyTorch**, combined with strong found
 
 ---
 
-## 🛠️ Data Science Specializations
+## 🔬 Data Science Specializations
 
-### 📈 Predictive Analytics
-- Time-series forecasting (univariate & multivariate)
+### 📈 Predictive Analytics & Forecasting
+- Time-series forecasting (ARIMA, Prophet, LSTM, Transformer)
 - Demand forecasting & inventory optimization
-- Churn prediction & customer lifetime value
-- Price optimization & elasticity modeling
+- Churn prediction & customer lifetime value modeling
+- Price optimization & elasticity analysis
 - Sales forecasting & revenue prediction
+- Anomaly detection in time-series data
 
-### 🔍 Feature Engineering & EDA
-- Exploratory data analysis & data profiling
-- Feature extraction & dimensionality reduction
-- Feature selection (correlation, importance-based)
-- Handling missing data & outliers
-- Data quality assessment & validation
-- Statistical summaries & insights
+### 🔍 Feature Engineering & Exploratory Data Analysis
+- Exploratory data analysis (EDA) & data profiling
+- Feature extraction & dimensionality reduction (PCA, t-SNE)
+- Feature selection (statistical, correlation, importance-based)
+- Handling missing data, outliers & imbalanced distributions
+- Data quality assessment & validation frameworks
+- Feature interaction & polynomial feature engineering
+- Domain-specific feature creation
 
-### 🎯 Classification & Regression
+### 🎯 Classification & Regression Modeling
 - Binary & multi-class classification
-- Regression modeling (linear, non-linear, ensemble)
-- Imbalanced data handling (SMOTE, class weights)
+- Multi-output & hierarchical classification
+- Regression modeling (linear, non-linear, ensemble methods)
+- Imbalanced data handling (SMOTE, class weights, threshold tuning)
 - Model calibration & probability estimation
-- Hyperparameter tuning & cross-validation
+- Hyperparameter tuning & cross-validation strategies
 
-### 🧪 Experimentation & A/B Testing
-- Experimental design & statistical power
-- A/B testing frameworks & analysis
-- Causal inference & propensity matching
+### 🧪 Experimentation & Causal Inference
+- Experimental design & statistical power analysis
+- A/B testing frameworks & guardrail monitoring
+- Multivariate testing & adaptive experiments
+- Causal inference (propensity matching, DAGs, CATE)
 - Significance testing & confidence intervals
-- Multi-armed bandits & online learning
+- Multi-armed bandits & contextual bandits
+- Bayesian experimentation approaches
 
-### 📊 Data Visualization & Storytelling
-- Interactive dashboards & reporting
-- Data storytelling for stakeholders
+### 💬 Natural Language Processing
+- Text preprocessing & tokenization
+- Sentiment analysis & opinion mining
+- Named entity recognition (NER)
+- Text classification & topic modeling
+- Word embeddings (Word2Vec, GloVe, FastText)
+- Transformer-based models (BERT, GPT)
+- Large Language Model (LLM) applications & fine-tuning
+
+### 🎁 Recommendation Systems
+- Collaborative filtering (user-based, item-based)
+- Content-based recommendation
+- Hybrid recommendation approaches
+- Matrix factorization & factorization machines
+- Deep learning for recommendations (Neural Collaborative Filtering)
+- Cold-start problem handling
+- Real-time recommendation serving
+
+### 📊 Clustering & Unsupervised Learning
+- K-means, hierarchical clustering, DBSCAN
+- Gaussian mixture models & EM algorithm
+- Dimensionality reduction (PCA, t-SNE, UMAP)
+- Anomaly detection (Isolation Forest, One-class SVM)
+- Customer segmentation & micro-segmentation
+- Topic modeling (LDA, NMF)
+
+### 🧠 Deep Learning Applications
+- Convolutional Neural Networks (CNNs) for image processing
+- Recurrent Neural Networks (RNNs, LSTMs, GRUs) for sequences
+- Attention mechanisms & Transformers
+- Autoencoders & variational autoencoders (VAEs)
+- Generative models (GANs basics)
+- Transfer learning & domain adaptation
+- Model compression & optimization (quantization, pruning)
+
+### 📊 Data Visualization & Business Storytelling
+- Interactive dashboards & reporting (Tableau, Power BI, Plotly)
+- Data storytelling for stakeholders & executives
 - Business intelligence & KPI tracking
-- Insight communication & recommendations
+- Insight communication & actionable recommendations
+- Statistical visualization best practices
+- Real-time monitoring dashboards
+
+### 🚀 MLOps & Model Deployment
+- Model versioning & registry management (MLflow, DVC)
+- CI/CD pipelines for ML (GitHub Actions, Jenkins)
+- Model serving & inference optimization
+- A/B testing infrastructure & canary deployments
+- Model monitoring & drift detection
+- Retraining pipelines & automation
+- Production ML best practices & governance
+
+### 🗂️ Data Governance & Quality
+- Data quality frameworks & profiling
+- Data lineage & metadata management
+- Data privacy & compliance (GDPR, CCPA)
+- Data validation & schema enforcement
+- Master data management (MDM)
+- Data cataloging & discovery
 
 ---
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
